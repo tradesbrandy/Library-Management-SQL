@@ -1,0 +1,79 @@
+== Q1 ==
+title | category | published_year
+Long Walk to Freedom | Biography | 1994
+Unbowed | Biography | 2006
+A Grain of Wheat | Fiction | 1967
+Half of a Yellow Sun | Fiction | 2006
+Things Fall Apart | Fiction | 1958
+Sapiens | History | 2011
+Cosmos | Science | 1980
+Designing Data-Intensive Applications | Technology | 2017
+The C Programming Language | Technology | 1978
+The Pragmatic Origins of Unix | Technology | 1984
+
+== Q2 ==
+title | authors
+A Grain of Wheat | Ngugi wa Thiong'o
+Cosmos | Carl Sagan
+Designing Data-Intensive Applications | Martin Kleppmann
+Half of a Yellow Sun | Chimamanda Adichie
+Long Walk to Freedom | Nelson Mandela
+Sapiens | Yuval Harari
+The C Programming Language | Brian Kernighan, Dennis Ritchie
+The Pragmatic Origins of Unix | Dennis Ritchie
+Things Fall Apart | Chinua Achebe
+Unbowed | Wangari Maathai
+
+== Q3 ==
+full_name | title | category | loan_date | return_date
+Amina Wanjiru | Designing Data-Intensive Applications | Technology | 2026-05-02 | 2026-05-16
+Grace Mutua | Sapiens | History | 2026-06-15 | 2026-06-28
+Fatuma Hassan | Cosmos | Science | 2026-07-11 | 2026-07-24
+Amina Wanjiru | Things Fall Apart | Fiction | 2026-08-01 | 2026-08-12
+David Kiprop | Long Walk to Freedom | Biography | 2026-08-20 | 2026-09-10
+Brian Otieno | The C Programming Language | Technology | 2026-09-02 | 2026-09-15
+Amina Wanjiru | Sapiens | History | 2026-09-10 | 2026-09-30
+Fatuma Hassan | Half of a Yellow Sun | Fiction | 2026-09-20 | None
+Grace Mutua | A Grain of Wheat | Fiction | 2026-09-28 | None
+Brian Otieno | Designing Data-Intensive Applications | Technology | 2026-10-01 | None
+David Kiprop | Unbowed | Biography | 2026-10-05 | None
+Samuel Njoroge | Things Fall Apart | Fiction | 2026-10-08 | None
+
+== Q4 ==
+full_name | total_loans
+Amina Wanjiru | 3
+Brian Otieno | 2
+David Kiprop | 2
+Fatuma Hassan | 2
+Grace Mutua | 2
+Samuel Njoroge | 1
+
+== Q5 ==
+title
+The Pragmatic Origins of Unix
+
+== Q6 ==
+full_name | email | title | due_date | days_overdue
+Fatuma Hassan | fatuma.hassan@example.com | Half of a Yellow Sun | 2026-10-04 | 11
+Grace Mutua | grace.mutua@example.com | A Grain of Wheat | 2026-10-12 | 3
+
+== Q7 ==
+category | loans
+Fiction | 4
+Technology | 3
+Biography | 2
+History | 2
+Science | 1
+
+== Q8 ==
+author | country | loans
+Chinua Achebe | Nigeria | 2
+Martin Kleppmann | UK | 2
+Yuval Harari | Israel | 2
+Brian Kernighan | Canada | 1
+Carl Sagan | USA | 1
+Chimamanda Adichie | Nigeria | 1
+Dennis Ritchie | USA | 1
+Nelson Mandela | South Africa | 1
+Ngugi wa Thiong'o | Kenya | 1
+Wangari Maathai | Kenya | 1
